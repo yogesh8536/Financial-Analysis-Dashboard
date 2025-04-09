@@ -61,5 +61,7 @@ ________________________________________
 •	Store & Product Managers
 
 Data: https://github.com/yogesh8536/Financial-Analysis-Dashboard/blob/main/DataSet.xlsx
+
 Dashboard: https://github.com/yogesh8536/Financial-Analysis-Dashboard/blob/main/Financial%20Analytical%20Dashboard.pbix
+
 Image: https://github.com/yogesh8536/Financial-Analysis-Dashboard/blob/main/Financial%20Analysis%20Dashboard.JPG
